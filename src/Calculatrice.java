@@ -21,7 +21,6 @@ public class Calculatrice {
 
         Window window = new Window();
 
-
         initCalculatrice();
         window.setContentPane(container);
         window.setVisible(true);
